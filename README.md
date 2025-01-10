@@ -10,9 +10,6 @@ This project provides a simple web-based interface to view and track GitHub acti
 - **Manual Refresh**: Users can manually refresh the log by clicking the "Refresh Now" button.
 - **Action Details**: For each action, you can see the author, action type, branch details, and timestamp.
 
-## Demo
-
-You can view a live demo of the project here: [GitHub Actions Log Demo](#)
 
 
 ## Technologies Used
