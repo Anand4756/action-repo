@@ -14,30 +14,9 @@ This project provides a simple web-based interface to view and track GitHub acti
 
 You can view a live demo of the project here: [GitHub Actions Log Demo](#)
 
-## Screenshots
-
-![GitHub Actions Log Viewer Screenshot](screenshot.png)
 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python Flask (API for serving GitHub action data)
-- **Design**: Custom styles for a modern, responsive user interface
-- **Fetch API**: For pulling the latest GitHub actions from the backend
 
-## Installation
-
-To run this project locally, follow the steps below:
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) for the web server (if applicable)
-- [Flask](https://flask.palletsprojects.com/) for the backend API
-- A running Flask server that serves the `/webhook/actions` endpoint, returning JSON data of GitHub actions
-
-### Setup
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/github-actions-l
