@@ -18,4 +18,5 @@ This project provides a simple web-based interface to view and track GitHub acti
 - **Backend**: Python Flask (API for serving GitHub action data)
 
 
-checcking pull request merge..
+
+changes to check push, pull and merge
